@@ -9,4 +9,4 @@ Schedule: Every Friday Afternoon.
 
 First Week: 
 Michael Rivera, Liangfei Qiu, Subodha Kumar, and Anthony Petrucci "Are Traditional Performance Reviews Outdated? An Empirical Analysis on Continuous, Real-Time Feedback in the Workplace," Information Systems Research (2021), 32(2), 517-540.
-[Slides](/slide1stweek.pdf)
+[Slides](/assets/slide1stweek.pdf)
