@@ -2,6 +2,4 @@
 title: "IS Reading Group"
 layout: page
 ---
-This is the information systems reading group coorganized by several IS and marketing researchers at CUHK, including Miaozhe Han, Jingwei Dai, Hongchuan Shen, Siqi Pei, and Jialu Liu.
-
-Schedule: Every Friday Afternoon.
+This is the information systems reading group coorganized by several IS and marketing graduate students and researchers at CUHK, including Jingwei Dai, Miaozhe Han, Jialu Liu, Siqi Pei, and Hongchuan Shen (equal contribution, in alphabetical order).
