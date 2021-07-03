@@ -16,4 +16,5 @@ Michael Rivera, Liangfei Qiu, Subodha Kumar, and Anthony Petrucci "Are Tradition
 2nd Week: 
 Presenter: Jialu Liu
 
-Acemoglu, D., & Restrepo, P. (2018). Demographics and automation (No. w24421). National Bureau of Economic Research.
+Acemoglu, D., & Restrepo, P. (2018). Demographics and automation (No. w24421). National Bureau of Economic Research. [Slides](assets/slidejialuliu.pdf)
+
