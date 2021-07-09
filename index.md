@@ -18,3 +18,8 @@ Presenter: Jialu Liu
 
 Acemoglu, D., & Restrepo, P. (2018). Demographics and automation (No. w24421). National Bureau of Economic Research. [Slides](assets/slidejialuliu.pdf)
 
+3rd Week:
+Presenter: Hongchuan Shen
+
+Holmström, B. (1999). Managerial incentive problems: A dynamic perspective. The review of Economic studies, 66(1), 169-182. [Slides](assets/slidehongchuanshen.pdf)
+
